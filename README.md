@@ -1,4 +1,10 @@
-### Hola  👋 ## Bem-vindo(a) ao perfil do willamis chagas😁
+### olá eu sou willamis chagas ☺️
+## Apaixonado pro redes de tecnologia, e aprofundando os meus conhecimentos na área de desenvolvimento front-end. 👨🏾‍💻
+
+## Desenvolvedor front-end junior.🚀
+
+## Certificações📃
+## ° Curso dev-quest Desenvolvedor Front-End utilizando HTML, CSS, JAVASCRIPT, (status)=> CURSANDO.🖥️
 
  <div>
    <a href="https://github.com/willamischagas">
