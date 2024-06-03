@@ -3,7 +3,8 @@
 
 - 👨🏾‍💻 Passionate about technological networks, and deepening my knowledge in the area of ​​front-end development.
 - Stay up to date with my projects I'm working on [project]
-- All my projects are available on [github]
+- All my projects are available on [github] (https://github.com/willamischagas)
+- Access my [linkedin](https://www.linkedin.com/in/willamis-alves/)
 - I post videos regularly weekly [youtube] (https://www.youtube.com/channel/UCw8DCmWqFJ8eyAuyKnFkdlg)
 - Curiosity **oneye 😉**
 
