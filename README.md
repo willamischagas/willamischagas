@@ -1,11 +1,9 @@
-### Ola sou willamis chagas ☺️
+### Ola sou WILLAMIS CHAGAS ☺️
 ## Apaixonado por redes de tecnologia, e aprofundando os meus conhecimentos na área de desenvolvimento front-end. 👨🏾‍💻
 
-## Desenvolvedor front-end junior.🚀
+## Desenvolvedor front-end. 🚀
 
-## Certificações📃
-
-## °Curso dev-quest Desenvolvedor Front-End utilizando HTML, CSS, JAVASCRIPT, (status)=> CURSANDO.🖥️
+## °Curso dev-quest Desenvolvedor Front-End utilizando HTML, CSS, JAVASCRIPT. 🖥️
 
  <div>
    <a href="https://github.com/willamischagas">
@@ -25,7 +23,9 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCw8DCmWqFJ8eyAuyKnFkdlg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
   <a href="https://instagram.com/will_frontend?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "willaromas10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willamis-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
