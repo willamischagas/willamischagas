@@ -4,7 +4,7 @@
 - 👨🏾‍💻 About me
 
 I'm passionate about technology networks and I'm deepening my knowledge in the area of ​​front-end development. Always looking for new challenges and learning!.
-- S🚀 Projects
+- 🚀 Projects
 
 Follow the projects I'm working on: [project] 
 - 📂 My repositories
