@@ -15,6 +15,8 @@
 ![html5](https://img.shields.io/badge/html5-blue?logo=html5)
 ![css3](https://img.shields.io/badge/css3-blue?logo=css3)
 ![javaScript](https://img.shields.io/badge/javaScript-blue?logo=javascript)
+![react](https://img.shields.io/badge/react-blue?logo=react)
+![bootstrap](https://img.shields.io/badge/bootstrap-blue?logo=bootstrap)
 ![git](https://img.shields.io/badge/git-blue?logo=git)
 ![github](https://img.shields.io/badge/github-blue?logo=github)
 
