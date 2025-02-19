@@ -1,12 +1,19 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm WILLAMIS CHAGAS ☺️</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm WILLAMIS CHAGAS ☺️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willamischagas&color=yellow" alt="Profile views"></p>
 
-- 👨🏾‍💻 Passionate about technological networks, and deepening my knowledge in the area of ​​front-end development.
-- Stay up to date with my projects I'm working on [project]
-- All my projects are available on [github] (https://github.com/willamischagas)
-- Access my [linkedin](https://www.linkedin.com/in/willamis-alves/)
-- I post videos regularly weekly [youtube] (https://www.youtube.com/channel/UCw8DCmWqFJ8eyAuyKnFkdlg)
-- Curiosity **oneye 😉**
+- 👨🏾‍💻 About me
+
+I'm passionate about technology networks and I'm deepening my knowledge in the area of ​​front-end development. Always looking for new challenges and learning!.
+- S🚀 Projects
+
+Follow the projects I'm working on: [project] 
+- 📂 My repositories
+
+All my projects are available on my GitHub:(https://github.com/willamischagas)
+- 🔗 Connect with me Access my [linkedin](https://www.linkedin.com/in/willamis-alves/)
+- 🎭 Fun fact
+
+OneEye 😉**
 
 <br>
 <br>
